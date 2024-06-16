@@ -9,13 +9,13 @@ PyFlexAPI oferece tanto uma versão síncrona quanto uma versão assíncrona par
 Você pode instalar a biblioteca usando pip:
 
 ```bash
-`pip install dsp-library`
+`pip install flexapi`
 ```
 
 ## Requisitos
 
 -   Python 3.7 ou superior
--   Bibliotecas necessárias são instaladas automaticamente ao usar pip para instalar `pyflexapi-library`
+-   Bibliotecas necessárias são instaladas automaticamente ao usar pip para instalar `flexapi-library`
 
 ## Contribuição
 
