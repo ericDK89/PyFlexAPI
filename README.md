@@ -9,7 +9,7 @@ PyFlexAPI oferece tanto uma versão síncrona quanto uma versão assíncrona par
 Você pode instalar a biblioteca usando pip:
 
 ```bash
-`pip install flexapi`
+pip install PyFlexAPI
 ```
 
 ## Requisitos
