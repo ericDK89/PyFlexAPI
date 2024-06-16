@@ -24,3 +24,13 @@ Contribuições são bem-vindas! Se você encontrar um bug ou tiver alguma suges
 ## Licença
 
 Este projeto está licenciado sob a MIT License.
+
+## Futuras Atualizações
+
+As futuras atualizações incluem:
+
+-   Adicionar requisições VTEX para a API de Category
+-   Adicionar requisições VTEX para a API de Product
+-   Adicionar requisições VTEX para a API de SKU
+-   Adicionar requisições VTEX para a API de SKU Bindings
+-   Adicionar requisições VTEX para a API de Search
