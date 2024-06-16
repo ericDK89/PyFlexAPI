@@ -1,7 +1,7 @@
 # DSPLibrary
 
 ## Descrição
-DSPLibrary é uma biblioteca Python desenvolvida para simplificar e agilizar as requisições comuns que encontramos em nosso trabalho diário. Em vez de repetir o mesmo código várias vezes, você pode simplesmente importar esta biblioteca. Alguns exemplos de códigos repetitivos incluem as requisições para a VTEX, conexões com o DynamoDB e com o S3. Esta biblioteca visa oferecer uma solução eficiente e fácil de usar para lidar com esses tipos de operações, permitindo que você se concentre mais nas tarefas principais do seu projeto.
+DSPLibrary é uma biblioteca Python desenvolvida para simplificar e agilizar as requisições comuns que encontramos em nosso trabalho diário. Em vez de repetir o mesmo código várias vezes, você pode simplesmente importar esta biblioteca. Alguns exemplos de códigos repetitivos incluem as requisições para a VTEX e conexões com o DynamoDB. Esta biblioteca visa oferecer uma solução eficiente e fácil de usar para lidar com esses tipos de operações, permitindo que você se concentre mais nas tarefas principais do seu projeto.
 
 DSPLibrary oferece tanto uma versão síncrona quanto uma versão assíncrona para atender às necessidades de diferentes projetos e cenários de uso. Isso proporciona flexibilidade para escolher o método de requisição mais adequado para o seu caso específico, seja ele baseado em eventos ou de forma linear.
 
