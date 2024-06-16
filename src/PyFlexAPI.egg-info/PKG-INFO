@@ -1,0 +1,44 @@
+Metadata-Version: 2.1
+Name: PyFlexAPI
+Version: 0.1.0
+Summary: A client for handling requests to Amazon DynamoDB.
+Home-page: https://github.com/ericDK89/PyFlexAPI
+Author: Eric Macedo, Carlos Eduardo Yuichi Hashimoto
+Author-email: ericthr42@gmail.com, yuichihashimotobiz@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: boto3
+Requires-Dist: botocore
+Requires-Dist: moto
+
+# PyFlexAPI
+
+## Descrição
+PyFlexAPI é uma biblioteca Python desenvolvida para simplificar e agilizar as requisições comuns que encontramos em nosso trabalho diário. Em vez de repetir o mesmo código várias vezes, você pode simplesmente importar esta biblioteca. Alguns exemplos de códigos repetitivos incluem as requisições para a VTEX e conexões com o DynamoDB. Esta biblioteca visa oferecer uma solução eficiente e fácil de usar para lidar com esses tipos de operações, permitindo que você se concentre mais nas tarefas principais do seu projeto.
+
+PyFlexAPI oferece tanto uma versão síncrona quanto uma versão assíncrona para atender às necessidades de diferentes projetos e cenários de uso. Isso proporciona flexibilidade para escolher o método de requisição mais adequado para o seu caso específico, seja ele baseado em eventos ou de forma linear.
+
+## Instalação
+Você pode instalar a biblioteca usando pip:
+
+```bash
+`pip install flexapi`
+```
+
+## Requisitos
+
+-   Python 3.7 ou superior
+-   Bibliotecas necessárias são instaladas automaticamente ao usar pip para instalar `flexapi-library`
+
+## Contribuição
+
+Contribuições são bem-vindas! Se você encontrar um bug ou tiver alguma sugestão de melhoria, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+## Licença
+
+Este projeto está licenciado sob a MIT License.

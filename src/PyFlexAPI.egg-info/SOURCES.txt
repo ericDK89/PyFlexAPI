@@ -1,0 +1,13 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+src/PyFlexAPI.egg-info/PKG-INFO
+src/PyFlexAPI.egg-info/SOURCES.txt
+src/PyFlexAPI.egg-info/dependency_links.txt
+src/PyFlexAPI.egg-info/requires.txt
+src/PyFlexAPI.egg-info/top_level.txt
+src/dynamodb/__init__.py
+src/dynamodb/client.py
+src/tests/__init__.py
+src/tests/test_dynamodb_client.py
